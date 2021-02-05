@@ -1,0 +1,9 @@
+C:\Project\Egitim\Kurumsal NetCore\NorthwindBackend\Core\bin\Debug\netstandard2.1\Core.deps.json
+C:\Project\Egitim\Kurumsal NetCore\NorthwindBackend\Core\bin\Debug\netstandard2.1\Core.dll
+C:\Project\Egitim\Kurumsal NetCore\NorthwindBackend\Core\obj\Debug\netstandard2.1\Core.AssemblyInfoInputs.cache
+C:\Project\Egitim\Kurumsal NetCore\NorthwindBackend\Core\obj\Debug\netstandard2.1\Core.AssemblyInfo.cs
+C:\Project\Egitim\Kurumsal NetCore\NorthwindBackend\Core\bin\Debug\netstandard2.1\Core.pdb
+C:\Project\Egitim\Kurumsal NetCore\NorthwindBackend\Core\obj\Debug\netstandard2.1\Core.dll
+C:\Project\Egitim\Kurumsal NetCore\NorthwindBackend\Core\obj\Debug\netstandard2.1\Core.pdb
+C:\Project\Egitim\Kurumsal NetCore\NorthwindBackend\Core\obj\Debug\netstandard2.1\Core.csprojAssemblyReference.cache
+C:\Project\Egitim\Kurumsal NetCore\NorthwindBackend\Core\obj\Debug\netstandard2.1\Core.csproj.CoreCompileInputs.cache

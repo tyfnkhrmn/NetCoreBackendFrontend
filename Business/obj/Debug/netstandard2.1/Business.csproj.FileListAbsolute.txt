@@ -1,0 +1,16 @@
+C:\Project\Egitim\Kurumsal NetCore\NorthwindBackend\Business\obj\Debug\netstandard2.1\Business.csprojAssemblyReference.cache
+C:\Project\Egitim\Kurumsal NetCore\NorthwindBackend\Business\obj\Debug\netstandard2.1\Business.AssemblyInfoInputs.cache
+C:\Project\Egitim\Kurumsal NetCore\NorthwindBackend\Business\obj\Debug\netstandard2.1\Business.AssemblyInfo.cs
+C:\Project\Egitim\Kurumsal NetCore\NorthwindBackend\Business\bin\Debug\netstandard2.1\Business.deps.json
+C:\Project\Egitim\Kurumsal NetCore\NorthwindBackend\Business\bin\Debug\netstandard2.1\Business.dll
+C:\Project\Egitim\Kurumsal NetCore\NorthwindBackend\Business\bin\Debug\netstandard2.1\Business.pdb
+C:\Project\Egitim\Kurumsal NetCore\NorthwindBackend\Business\bin\Debug\netstandard2.1\Core.dll
+C:\Project\Egitim\Kurumsal NetCore\NorthwindBackend\Business\bin\Debug\netstandard2.1\DataAccess.dll
+C:\Project\Egitim\Kurumsal NetCore\NorthwindBackend\Business\bin\Debug\netstandard2.1\Entities.dll
+C:\Project\Egitim\Kurumsal NetCore\NorthwindBackend\Business\bin\Debug\netstandard2.1\DataAccess.pdb
+C:\Project\Egitim\Kurumsal NetCore\NorthwindBackend\Business\bin\Debug\netstandard2.1\Entities.pdb
+C:\Project\Egitim\Kurumsal NetCore\NorthwindBackend\Business\bin\Debug\netstandard2.1\Core.pdb
+C:\Project\Egitim\Kurumsal NetCore\NorthwindBackend\Business\obj\Debug\netstandard2.1\Business.csproj.CopyComplete
+C:\Project\Egitim\Kurumsal NetCore\NorthwindBackend\Business\obj\Debug\netstandard2.1\Business.dll
+C:\Project\Egitim\Kurumsal NetCore\NorthwindBackend\Business\obj\Debug\netstandard2.1\Business.pdb
+C:\Project\Egitim\Kurumsal NetCore\NorthwindBackend\Business\obj\Debug\netstandard2.1\Business.csproj.CoreCompileInputs.cache
