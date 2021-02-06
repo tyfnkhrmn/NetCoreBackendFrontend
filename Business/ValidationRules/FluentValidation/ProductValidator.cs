@@ -1,0 +1,27 @@
+﻿using Entities.Concrete;
+using FluentValidation;
+using System;
+using System.Collections.Generic;
+using System.Text;
+
+namespace Business.ValidationRules.FluentValidation
+{
+    public class ProductValidator:AbstractValidator<Product>
+    {
+        public ProductValidator()
+        {
+            RuleFor(p => p.ProductName).NotEmpty().WithMessage("Ürün İsmi Boş Olamaz");
+            RuleFor(p => p.ProductName).Length(2,30);
+            RuleFor(p => p.ProductName).Must(StartWithA);
+            RuleFor(p => p.UnitPrice).NotEmpty();
+            RuleFor(p => p.UnitPrice).GreaterThanOrEqualTo(1);
+            RuleFor(p => p.UnitPrice).GreaterThanOrEqualTo(1).When(p=>p.CategoryId==1);
+
+        }
+
+        private bool StartWithA(string arg)
+        {
+            return arg.StartsWith("A");
+        }
+    }
+}

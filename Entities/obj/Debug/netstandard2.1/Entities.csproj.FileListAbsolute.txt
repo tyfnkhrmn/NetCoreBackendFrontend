@@ -10,3 +10,15 @@ C:\Project\Egitim\Kurumsal NetCore\NorthwindBackend\Entities\obj\Debug\netstanda
 C:\Project\Egitim\Kurumsal NetCore\NorthwindBackend\Entities\obj\Debug\netstandard2.1\Entities.csproj.CopyComplete
 C:\Project\Egitim\Kurumsal NetCore\NorthwindBackend\Entities\obj\Debug\netstandard2.1\Entities.dll
 C:\Project\Egitim\Kurumsal NetCore\NorthwindBackend\Entities\obj\Debug\netstandard2.1\Entities.pdb
+C:\Project\Egitim\Kurumsal NetCore\NetCoreBackendFrontend\Entities\bin\Debug\netstandard2.1\Entities.deps.json
+C:\Project\Egitim\Kurumsal NetCore\NetCoreBackendFrontend\Entities\bin\Debug\netstandard2.1\Entities.dll
+C:\Project\Egitim\Kurumsal NetCore\NetCoreBackendFrontend\Entities\bin\Debug\netstandard2.1\Entities.pdb
+C:\Project\Egitim\Kurumsal NetCore\NetCoreBackendFrontend\Entities\bin\Debug\netstandard2.1\Core.dll
+C:\Project\Egitim\Kurumsal NetCore\NetCoreBackendFrontend\Entities\bin\Debug\netstandard2.1\Core.pdb
+C:\Project\Egitim\Kurumsal NetCore\NetCoreBackendFrontend\Entities\obj\Debug\netstandard2.1\Entities.csprojAssemblyReference.cache
+C:\Project\Egitim\Kurumsal NetCore\NetCoreBackendFrontend\Entities\obj\Debug\netstandard2.1\Entities.AssemblyInfoInputs.cache
+C:\Project\Egitim\Kurumsal NetCore\NetCoreBackendFrontend\Entities\obj\Debug\netstandard2.1\Entities.AssemblyInfo.cs
+C:\Project\Egitim\Kurumsal NetCore\NetCoreBackendFrontend\Entities\obj\Debug\netstandard2.1\Entities.csproj.CoreCompileInputs.cache
+C:\Project\Egitim\Kurumsal NetCore\NetCoreBackendFrontend\Entities\obj\Debug\netstandard2.1\Entities.csproj.CopyComplete
+C:\Project\Egitim\Kurumsal NetCore\NetCoreBackendFrontend\Entities\obj\Debug\netstandard2.1\Entities.dll
+C:\Project\Egitim\Kurumsal NetCore\NetCoreBackendFrontend\Entities\obj\Debug\netstandard2.1\Entities.pdb

@@ -12,3 +12,17 @@ C:\Project\Egitim\Kurumsal NetCore\NorthwindBackend\DataAccess\bin\Debug\netstan
 C:\Project\Egitim\Kurumsal NetCore\NorthwindBackend\DataAccess\obj\Debug\netstandard2.1\DataAccess.csproj.CopyComplete
 C:\Project\Egitim\Kurumsal NetCore\NorthwindBackend\DataAccess\obj\Debug\netstandard2.1\DataAccess.dll
 C:\Project\Egitim\Kurumsal NetCore\NorthwindBackend\DataAccess\obj\Debug\netstandard2.1\DataAccess.pdb
+C:\Project\Egitim\Kurumsal NetCore\NetCoreBackendFrontend\DataAccess\bin\Debug\netstandard2.1\DataAccess.deps.json
+C:\Project\Egitim\Kurumsal NetCore\NetCoreBackendFrontend\DataAccess\bin\Debug\netstandard2.1\DataAccess.dll
+C:\Project\Egitim\Kurumsal NetCore\NetCoreBackendFrontend\DataAccess\bin\Debug\netstandard2.1\DataAccess.pdb
+C:\Project\Egitim\Kurumsal NetCore\NetCoreBackendFrontend\DataAccess\bin\Debug\netstandard2.1\Core.dll
+C:\Project\Egitim\Kurumsal NetCore\NetCoreBackendFrontend\DataAccess\bin\Debug\netstandard2.1\Entities.dll
+C:\Project\Egitim\Kurumsal NetCore\NetCoreBackendFrontend\DataAccess\bin\Debug\netstandard2.1\Core.pdb
+C:\Project\Egitim\Kurumsal NetCore\NetCoreBackendFrontend\DataAccess\bin\Debug\netstandard2.1\Entities.pdb
+C:\Project\Egitim\Kurumsal NetCore\NetCoreBackendFrontend\DataAccess\obj\Debug\netstandard2.1\DataAccess.csprojAssemblyReference.cache
+C:\Project\Egitim\Kurumsal NetCore\NetCoreBackendFrontend\DataAccess\obj\Debug\netstandard2.1\DataAccess.AssemblyInfoInputs.cache
+C:\Project\Egitim\Kurumsal NetCore\NetCoreBackendFrontend\DataAccess\obj\Debug\netstandard2.1\DataAccess.AssemblyInfo.cs
+C:\Project\Egitim\Kurumsal NetCore\NetCoreBackendFrontend\DataAccess\obj\Debug\netstandard2.1\DataAccess.csproj.CoreCompileInputs.cache
+C:\Project\Egitim\Kurumsal NetCore\NetCoreBackendFrontend\DataAccess\obj\Debug\netstandard2.1\DataAccess.csproj.CopyComplete
+C:\Project\Egitim\Kurumsal NetCore\NetCoreBackendFrontend\DataAccess\obj\Debug\netstandard2.1\DataAccess.dll
+C:\Project\Egitim\Kurumsal NetCore\NetCoreBackendFrontend\DataAccess\obj\Debug\netstandard2.1\DataAccess.pdb
