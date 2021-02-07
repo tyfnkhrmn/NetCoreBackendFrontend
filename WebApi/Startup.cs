@@ -2,6 +2,8 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using Core.DependencyResolvers;
+using Core.Extensions;
 using Core.Utilities.Security.Encyption;
 using Core.Utilities.Security.Jwt;
 using Microsoft.AspNetCore.Authentication.JwtBearer;
@@ -52,6 +54,10 @@ namespace WebApi
                     IssuerSigningKey=SecurityKeyHelper.CreateSecurityKey(tokenOptions.SecurityKey)
                 };
             });
+            services.AddDependencyResolvers(
+                new Core.Utilities.IoC.ICoreModule[]{
+                new CoreModule()
+                });
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.

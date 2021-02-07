@@ -98,5 +98,18 @@ namespace WebApi.Controllers
                 return BadRequest(result.Message);
             }
         }
+        [HttpPost(template: "TransactionalOperation")]
+        public IActionResult TransactionalOperation(Product product)
+        {
+            var result = _productService.TransactionalOperation(product);
+            if (result.Success)
+            {
+                return Ok(result.Message);
+            }
+            else
+            {
+                return BadRequest(result.Message);
+            }
+        }
     }
 }
